@@ -1,0 +1,9 @@
+export default {
+  vermelho: '#c23616',
+  verde: '#44bd32',
+  amarelo: '#f0c11a',
+  amarelo2: '#e1a32a',
+  azul: '#698ac2',
+  blush: '#c2697f',
+  mantis: '#91c169'
+}
